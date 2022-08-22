@@ -46,7 +46,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
+  src="https://www.eventbrite.com/e/tufts-uep-coding-bootcamp-tickets-406449380037"
   frameborder="0"
   width="100%"
   height="280px"
